@@ -3,11 +3,13 @@
                   Vim, in C.
 
 # TODO
-    # Vim-Style escape sequences
-    # Clearing when the terinal is closed
-    # README.md
-    # More features!
-    # fixing the modes.
+    - Vim-Style escape sequences
+    - Clearing when the terinal is closed
+    - A nice build workflow
+    - README.md
+    - More features!
+    - Fix the modes.
+    - More features.
 
 */
 
